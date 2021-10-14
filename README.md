@@ -1,3 +1,2 @@
-# helloworld
-sourcecode print helloworld in output
+# someinfo:)
 Hello there,I like to code and drink coffee.
