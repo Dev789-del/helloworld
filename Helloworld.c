@@ -2,6 +2,6 @@
 #include<stdio.h>
 int main()
 {
-  printf("Hello World!");
+  printf("Hello World!"); // print out a string that has content Hello World!
   return 0;
 }
